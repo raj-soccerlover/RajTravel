@@ -1,4 +1,4 @@
-<img src ="https://img.shields.io/badge/<covid-hit>-<looking for job>-<red>" alt="button" />
+
 
 ##### A website for a travel agency firm.    
 
