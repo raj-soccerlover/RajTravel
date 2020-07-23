@@ -8,7 +8,7 @@
 >> **css**  
 
 Preview of the website:
-<img src =>
+<img src="Images/pic1.png" alt ="Home Screen" style ="float: left; margin-right: 10px;" sidth = "200"/>
 
 Created by :
 [Abhinav Raj]([https://github.com/raj-soccerlover])
