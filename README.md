@@ -5,7 +5,6 @@
 > ### Languages Used:
 >>  **HTML**  
 >> **javascript**  
-
 >> **css**  
 
 Preview of the website:
